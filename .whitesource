@@ -1,6 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "LOCAL"
+    "configMode": "LOCAL",
+    "configExternalURL": "https://raw.githubusercontent.com/samjcs/legend-pure/master/wss-unified-agent.config"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure"
